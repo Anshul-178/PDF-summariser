@@ -1,0 +1,41 @@
+
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+
+pymupdf
+
+
+sentence-transformers
+
+
+faiss-cpu
+
+# Transformers
+transformers
+torch
+
+# Environment Variables
+python-dotenv
+
+# Tokenizer
+tiktoken
+
+# Data Handling
+numpy
+pandas
+
+# Optional: OpenAI Models
+openai
+langchain-openai
+
+# Optional: Hugging Face Inference
+huggingface_hub
+
+# UI (Choose one)
+streamlit
+
+# Progress Bar
+tqdm
